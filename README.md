@@ -1,14 +1,13 @@
 ## Hi there 👋 I'm David
 
 ### I'm a software engineer with a passion for front-end development, UI/UX design, and project management.
-<br/>
 
 💼  &nbsp; My position has recently been affected by Covid-19 and I am currently looking for opportunities. Open to all referrals!
+<br/>
 🥅  &nbsp; 2020 Goals: 
 - Find an awesome company/role
 - Build cool projects
 - Pick up more software & project management skills
-<br/>
 
 ### What am I doing now?
  > Coding away on projects, attending virtual hackathons, and job searching.
