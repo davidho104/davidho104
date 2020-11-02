@@ -1,14 +1,17 @@
-## Hi there 👋 I'm David - [Portfolio Website]
+## Hi there 👋 I'm David
 
 ### I'm a software engineer with a passion for front-end development, UI/UX design, and project management.
 <br/>
 
-- 🏫  &nbsp; My position has recently been affected by Covid-19 and I am currently looking for opportunities!
-- 🥅  &nbsp; 2020 Goals: Pick up more software and project management skills
+💼  &nbsp; My position has recently been affected by Covid-19 and I am currently looking for opportunities. Open to all referrals!
+🥅  &nbsp; 2020 Goals: 
+- Find an awesome company/role
+- Build cool projects
+- Pick up more software & project management skills
 <br/>
 
 ### What am I doing now?
- > Working on projects, attending virtual hackathons, improving my portfolio, and job searching.
+ > Coding away on projects, attending virtual hackathons, and job searching.
 
 <br/>
 
@@ -44,7 +47,7 @@
 
 <br />
 
-### 🎧 <img align="left" alt=" " width="80px" src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white"/>
+### <img align="left" alt="Spotify" width="80px" src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white"/>
 
 [<img src="https://spotify-playing-myg9ovi23.vercel.app/api/spotify" alt="David's Spotify Playing" width="350" />](https://open.spotify.com/user/123092364)
 <br/>
