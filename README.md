@@ -1,4 +1,4 @@
-## Hi there 👋  I'm David
+## Hi there, I'm David
 
 ### I'm a software engineer with a passion for front-end development, UI/UX design, and project management.
 
