@@ -1,16 +1,16 @@
 ## Hi there, I'm David
 
-### I'm a technical product manager and software engineer with a passion for front-end development, UI/UX design, and project management.
+### Technical product manager and software engineer with a passion for front-end development, UI/UX design.
 
-💼  &nbsp; My position has recently been affected by Covid-19 and I am currently looking for opportunities. Open to all referrals!
+<!-- 💼  &nbsp; My position has recently been affected by Covid-19 and I am currently looking for opportunities. Open to all referrals!
 <br/><br/>
 🥅  &nbsp; 2022 Goals: 
 - Find an awesome company/role
 - Build cool projects
-- Pick up more software & project management skills
+- Pick up more software & project management skills -->
 
-### What am I doing now?
- > Coding away on projects, attending virtual hackathons, and job searching.
+<!-- ### What am I doing now?
+ > Coding away on projects, attending virtual hackathons, and job searching. -->
 
 
 ### Languages:
