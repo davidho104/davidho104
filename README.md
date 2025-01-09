@@ -1,6 +1,6 @@
 ## Hi there, I'm David
 
-### Technical product manager and software engineer with a passion for front-end development, UI/UX design.
+### Product/Project manager and software engineer with a passion for front-end development, UI/UX design.
 
 <!-- 💼  &nbsp; My position has recently been affected by Covid-19 and I am currently looking for opportunities. Open to all referrals!
 <br/><br/>
